@@ -1,0 +1,22 @@
+﻿#############
+## Idea
+#############
+target/
+.repository/
+#*.iws
+#*.jrtc
+#*.class
+#*.info
+#*.properties
+#*.jar
+/JavaRushPlugin.properties
+/Instruction.png
+/out.log
+/out.log.*
+/.idea/
+/out/
+/JavaRushTasks.iml
+/3.JavaMultithreading/3.JavaMultithreading.iml
+/2.JavaCore/2.JavaCore.iml
+/1.JavaSyntax/1.JavaSyntax.iml
+
